@@ -1,0 +1,5 @@
+in terminal: 
+    gcc temp.c -o temp -lsoc
+    sudo ./temp
+
+documentation: http://learn.linksprite.com/project/read-temperature-using-tpm36-sensor/
